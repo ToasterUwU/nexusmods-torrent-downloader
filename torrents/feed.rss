@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>NexusMods File Torrents</title>
+        <link>https://github.com/ToasterUwU/nexusmods-torrent-downloader</link>
+        <description>Downloads NexusMods.com file torrents, so you arent limited by the free tier download speeds anymore.</description>
+        <item>
+            <title>Unofficial Skyrim Special Edition Patch (skyrimspecialedition/mods/266/491975)</title>
+            <link>https://github.com/ToasterUwU/nexusmods-torrent-downloader/raw/main/torrents/files/skyrimspecialedition/mods/266/491975/Unofficial%20Skyrim%20Special%20Edition%20Patch-266-4-3-1-1713394824.7z.torrent</link>
+            <description>Meant for use ONLY with SSE v1.6.1130+.</description>
+        </item>
+    </channel>
+</rss>
