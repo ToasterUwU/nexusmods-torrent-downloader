@@ -36,7 +36,7 @@ You should get 3 things:
 
 ## Extra goodies
 All the torrent files are in [./torrents](./torrents/), so if you only care about one or two, you can grab the files you need and dont use the tool at all.
-Structure is: ./torrents/files/GAME_FROM_VORTEX_URL/SECTION_FROM_VORTEX_URL/MOD_ID/FILE_ID
+> Structure is: ./torrents/files/GAME_FROM_VORTEX_URL/SECTION_FROM_VORTEX_URL/MOD_ID/FILE_ID
 
 If you want to help out by seeding every and all files added to this tools list, there is a RSS Feed. This is also nice for if you just want to see what has been added.
-RSS Feed: https://raw.githubusercontent.com/ToasterUwU/nexusmods-torrent-downloader/main/torrents/feed.rss
+> RSS Feed: https://raw.githubusercontent.com/ToasterUwU/nexusmods-torrent-downloader/main/torrents/feed.rss
