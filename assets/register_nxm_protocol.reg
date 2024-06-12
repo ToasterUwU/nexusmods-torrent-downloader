@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\nxm]
+@="URL:nxm Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\nxm\shell]
+
+[HKEY_CLASSES_ROOT\nxm\shell\open]
+
+[HKEY_CLASSES_ROOT\nxm\shell\open\command]
+@="\"{}\" \"%1\""

@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+reqwest = { version = "0.12.4", features = ["blocking"] }
+dirs = "5.0.1"
+notify-rust = "4.5.11"

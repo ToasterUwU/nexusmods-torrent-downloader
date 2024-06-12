@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NexusMods Torrent Downloader
+Exec=nexusmods-torrent-downloader %u
+Type=Application
+NoDisplay=true
+MimeType=x-scheme-handler/nxm;
