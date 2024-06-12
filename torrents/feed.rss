@@ -9,5 +9,10 @@
             <link>https://github.com/ToasterUwU/nexusmods-torrent-downloader/raw/main/torrents/files/skyrimspecialedition/mods/266/491975.torrent</link>
             <description>Meant for use ONLY with SSE v1.6.1130+.</description>
         </item>
+        <item>
+            <title>SkyUI (skyrimspecialedition/mods/12604/35407)</title>
+            <link>https://github.com/ToasterUwU/nexusmods-torrent-downloader/raw/main/torrents/files/skyrimspecialedition/mods/12604/35407.torrent</link>
+            <description>Elegant, PC-friendly interface mod with many advanced features.</description>
+        </item>
     </channel>
 </rss>
