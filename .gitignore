@@ -8,3 +8,12 @@ target/
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Python Cache
+__pycache__
+
+# Direnv binaries and sources of things used
+.direnv
+
+# There is no point in locking people into an acient version of something, i dont wanna update this over and over and over
+flake.lock
